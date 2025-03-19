@@ -34,5 +34,7 @@ Esta aplicación permite ingresar nombres de amigos y realizar un sorteo aleator
 - **Adicionar nombres** usando el campo de texto.
 - **Visualizar nombres** ingresados en la lista.
 - **Sortear un amigo secreto** haciendo clic en el botón.
+- **Validación**: Solo se aceptan nombres con letras y espacios.
+- **Reinicio**: Después del sorteo, se puede reiniciar el juego para comenzar de nuevo.
 
 ---

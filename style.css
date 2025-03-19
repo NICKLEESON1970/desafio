@@ -113,6 +113,11 @@ button {
     border-radius: 25px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     cursor: pointer;
+    transition: transform 0.2s ease-in-out; /* Animación al hacer hover */
+}
+
+button:hover {
+    transform: scale(1.05); /* Efecto de agrandamiento */
 }
 
 .button-add {
